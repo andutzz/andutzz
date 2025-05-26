@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Go check out my website hosted with github pages!
+Check out my website on github!
 <!--
 **andutzz/andutzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
